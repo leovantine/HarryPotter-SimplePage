@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HarryPotter-SimplePage/static/css/main.e6c13ad2.css",
+    "main.js": "/HarryPotter-SimplePage/static/js/main.25a64f5b.js",
+    "static/js/787.f7a551ad.chunk.js": "/HarryPotter-SimplePage/static/js/787.f7a551ad.chunk.js",
+    "static/media/harryPotter.jpg": "/HarryPotter-SimplePage/static/media/harryPotter.062e73ee3461a555f298.jpg",
+    "static/media/firstImg.jpg": "/HarryPotter-SimplePage/static/media/firstImg.3825ea853c570e369626.jpg",
+    "static/media/seventhImg.jpg": "/HarryPotter-SimplePage/static/media/seventhImg.4b4dcca4576516f67e4a.jpg",
+    "static/media/sixthImg.jpg": "/HarryPotter-SimplePage/static/media/sixthImg.5b4b0f3876ba5e83c7cf.jpg",
+    "static/media/eighthImg.jpg": "/HarryPotter-SimplePage/static/media/eighthImg.01866dc5e81daf3dd882.jpg",
+    "static/media/thirdImg.jpg": "/HarryPotter-SimplePage/static/media/thirdImg.077e7b4da37f8e25b1f0.jpg",
+    "static/media/secondImg.jpg": "/HarryPotter-SimplePage/static/media/secondImg.a3f9f8074fa7980cd9af.jpg",
+    "static/media/fourthImg.jpg": "/HarryPotter-SimplePage/static/media/fourthImg.283e03165c1f2467074f.jpg",
+    "static/media/fifthImg.jpg": "/HarryPotter-SimplePage/static/media/fifthImg.0ae68888abefd7f2bf41.jpg",
+    "index.html": "/HarryPotter-SimplePage/index.html",
+    "main.e6c13ad2.css.map": "/HarryPotter-SimplePage/static/css/main.e6c13ad2.css.map",
+    "main.25a64f5b.js.map": "/HarryPotter-SimplePage/static/js/main.25a64f5b.js.map",
+    "787.f7a551ad.chunk.js.map": "/HarryPotter-SimplePage/static/js/787.f7a551ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.25a64f5b.js"
+  ]
+}
